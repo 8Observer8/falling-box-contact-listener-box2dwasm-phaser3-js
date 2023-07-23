@@ -14,6 +14,8 @@ Topic and discussions:
 - Phaser discussion: https://github.com/photonstorm/phaser/discussions/6556
 - Box2D-WASM discussion: https://github.com/Birch-san/box2d-wasm/discussions/68
 
+![falling-box-contact-listener-box2dwasm-phaser3-js](https://github.com/8Observer8/falling-box-contact-listener-box2dwasm-phaser3-js/assets/3908473/890e6a3d-b98e-4282-a8fb-e25dc287cbcd)
+
 Instruction for building and running the project in debug and release using Rollup:
 
 - Install these packages globally with the command:
